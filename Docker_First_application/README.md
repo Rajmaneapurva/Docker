@@ -1,14 +1,14 @@
-# ***Docker first application example***
+# **Docker first application example**
 
 This project is an example of a first application with Docker.  
 
 ______________________________________________________________________________________________________________________________
 
-## ***How to run ?***
+## **How to run ?**
 The project launch is in two parts: build and start.  
 
-## ***Build***
+## **Build**
 $ docker build -t [image_name]  
 
-## ***Launch***
+## **Launch**
 $ docker run [image_name]  
