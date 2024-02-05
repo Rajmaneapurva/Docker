@@ -26,7 +26,7 @@ Docker Containers are runtime instances of Docker images. Containers contain the
 # What is Docker Hub?
 Docker Hub is a repository service and it is a cloud-based service where people push their Docker Container Images and also pull the Docker Container Images from the Docker Hub anytime or anywhere via the internet. Generally it makes it easy to find and reuse images. It provides features such as you can push your images as private or public registry where you can store and share Docker images.
 
-Some basic Git commands are:
+# Some basic Docker commands are:
 ```
 Docker run 
 Docker ps 
