@@ -1,5 +1,4 @@
-# A dockerfile must always start by importing the base image.
-# We are importing python image. 
+# importing python image. 
 FROM python:latest
 
 # In order to launch our python code, we must import it into our image.
